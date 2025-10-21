@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\bin\Debug\net8.0\ExercicioLoginSimples.exe
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\bin\Debug\net8.0\ExercicioLoginSimples.deps.json
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\bin\Debug\net8.0\ExercicioLoginSimples.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\bin\Debug\net8.0\ExercicioLoginSimples.dll
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\bin\Debug\net8.0\ExercicioLoginSimples.pdb
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.dll
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\refint\ExercicioLoginSimples.dll
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.pdb
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ExercicioLoginSimples.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioLoginSimples\ExercicioLoginSimples\obj\Debug\net8.0\ref\ExercicioLoginSimples.dll
