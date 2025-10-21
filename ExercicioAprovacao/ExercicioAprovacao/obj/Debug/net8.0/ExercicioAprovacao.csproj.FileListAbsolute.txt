@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\bin\Debug\net8.0\ExercicioAprovacao.exe
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\bin\Debug\net8.0\ExercicioAprovacao.deps.json
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\bin\Debug\net8.0\ExercicioAprovacao.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\bin\Debug\net8.0\ExercicioAprovacao.dll
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\bin\Debug\net8.0\ExercicioAprovacao.pdb
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.dll
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\refint\ExercicioAprovacao.dll
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.pdb
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ExercicioAprovacao.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioAprovacao\ExercicioAprovacao\obj\Debug\net8.0\ref\ExercicioAprovacao.dll
