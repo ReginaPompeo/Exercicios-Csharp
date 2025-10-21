@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\bin\Debug\net8.0\DesafioDesconto.exe
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\bin\Debug\net8.0\DesafioDesconto.deps.json
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\bin\Debug\net8.0\DesafioDesconto.runtimeconfig.json
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\bin\Debug\net8.0\DesafioDesconto.dll
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\bin\Debug\net8.0\DesafioDesconto.pdb
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.AssemblyInfo.cs
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.dll
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\refint\DesafioDesconto.dll
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.pdb
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\DesafioDesconto.genruntimeconfig.cache
+C:\Users\ginac\source\repos\DesafioDesconto\DesafioDesconto\obj\Debug\net8.0\ref\DesafioDesconto.dll
