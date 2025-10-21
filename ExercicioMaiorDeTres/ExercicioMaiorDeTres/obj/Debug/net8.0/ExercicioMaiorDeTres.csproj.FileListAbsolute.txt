@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\bin\Debug\net8.0\ExercicioMaiorDeTres.exe
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\bin\Debug\net8.0\ExercicioMaiorDeTres.deps.json
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\bin\Debug\net8.0\ExercicioMaiorDeTres.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\bin\Debug\net8.0\ExercicioMaiorDeTres.dll
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\bin\Debug\net8.0\ExercicioMaiorDeTres.pdb
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.dll
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\refint\ExercicioMaiorDeTres.dll
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.pdb
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ExercicioMaiorDeTres.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioMaiorDeTres\ExercicioMaiorDeTres\obj\Debug\net8.0\ref\ExercicioMaiorDeTres.dll
