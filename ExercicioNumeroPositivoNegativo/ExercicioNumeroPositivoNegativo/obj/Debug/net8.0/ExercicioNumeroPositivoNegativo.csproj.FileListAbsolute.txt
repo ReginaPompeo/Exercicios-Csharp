@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\bin\Debug\net8.0\ExercicioNumeroPositivoNegativo.exe
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\bin\Debug\net8.0\ExercicioNumeroPositivoNegativo.deps.json
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\bin\Debug\net8.0\ExercicioNumeroPositivoNegativo.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\bin\Debug\net8.0\ExercicioNumeroPositivoNegativo.dll
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\bin\Debug\net8.0\ExercicioNumeroPositivoNegativo.pdb
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.dll
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\refint\ExercicioNumeroPositivoNegativo.dll
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.pdb
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ExercicioNumeroPositivoNegativo.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioNumeroPositivoNegativo\ExercicioNumeroPositivoNegativo\obj\Debug\net8.0\ref\ExercicioNumeroPositivoNegativo.dll
