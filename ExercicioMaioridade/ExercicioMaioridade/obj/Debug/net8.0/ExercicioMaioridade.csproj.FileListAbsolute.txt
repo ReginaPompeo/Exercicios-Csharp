@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\bin\Debug\net8.0\ExercicioMaioridade.exe
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\bin\Debug\net8.0\ExercicioMaioridade.deps.json
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\bin\Debug\net8.0\ExercicioMaioridade.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\bin\Debug\net8.0\ExercicioMaioridade.dll
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\bin\Debug\net8.0\ExercicioMaioridade.pdb
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.dll
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\refint\ExercicioMaioridade.dll
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.pdb
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ExercicioMaioridade.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioMaioridade\ExercicioMaioridade\obj\Debug\net8.0\ref\ExercicioMaioridade.dll
