@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\bin\Debug\net8.0\ExercicioCalculadoraSimples.exe
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\bin\Debug\net8.0\ExercicioCalculadoraSimples.deps.json
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\bin\Debug\net8.0\ExercicioCalculadoraSimples.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\bin\Debug\net8.0\ExercicioCalculadoraSimples.dll
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\bin\Debug\net8.0\ExercicioCalculadoraSimples.pdb
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.dll
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\refint\ExercicioCalculadoraSimples.dll
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.pdb
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ExercicioCalculadoraSimples.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioCalculadoraSimples\ExercicioCalculadoraSimples\obj\Debug\net8.0\ref\ExercicioCalculadoraSimples.dll
