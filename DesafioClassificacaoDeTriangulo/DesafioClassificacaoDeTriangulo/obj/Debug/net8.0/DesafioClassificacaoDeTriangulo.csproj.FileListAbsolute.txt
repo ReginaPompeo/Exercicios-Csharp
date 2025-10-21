@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\bin\Debug\net8.0\DesafioClassificacaoDeTriangulo.exe
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\bin\Debug\net8.0\DesafioClassificacaoDeTriangulo.deps.json
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\bin\Debug\net8.0\DesafioClassificacaoDeTriangulo.runtimeconfig.json
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\bin\Debug\net8.0\DesafioClassificacaoDeTriangulo.dll
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\bin\Debug\net8.0\DesafioClassificacaoDeTriangulo.pdb
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.AssemblyInfo.cs
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.dll
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\refint\DesafioClassificacaoDeTriangulo.dll
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.pdb
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\DesafioClassificacaoDeTriangulo.genruntimeconfig.cache
+C:\Users\ginac\source\repos\DesafioClassificacaoDeTriangulo\DesafioClassificacaoDeTriangulo\obj\Debug\net8.0\ref\DesafioClassificacaoDeTriangulo.dll
