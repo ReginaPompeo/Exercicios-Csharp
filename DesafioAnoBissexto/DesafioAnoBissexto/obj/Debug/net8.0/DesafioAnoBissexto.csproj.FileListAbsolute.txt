@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\bin\Debug\net8.0\DesafioAnoBissexto.exe
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\bin\Debug\net8.0\DesafioAnoBissexto.deps.json
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\bin\Debug\net8.0\DesafioAnoBissexto.runtimeconfig.json
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\bin\Debug\net8.0\DesafioAnoBissexto.dll
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\bin\Debug\net8.0\DesafioAnoBissexto.pdb
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.AssemblyInfo.cs
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.dll
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\refint\DesafioAnoBissexto.dll
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.pdb
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\DesafioAnoBissexto.genruntimeconfig.cache
+C:\Users\ginac\source\repos\DesafioAnoBissexto\DesafioAnoBissexto\obj\Debug\net8.0\ref\DesafioAnoBissexto.dll
