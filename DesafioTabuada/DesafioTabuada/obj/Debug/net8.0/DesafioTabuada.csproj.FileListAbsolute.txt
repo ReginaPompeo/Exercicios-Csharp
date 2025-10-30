@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\bin\Debug\net8.0\DesafioTabuada.exe
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\bin\Debug\net8.0\DesafioTabuada.deps.json
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\bin\Debug\net8.0\DesafioTabuada.runtimeconfig.json
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\bin\Debug\net8.0\DesafioTabuada.dll
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\bin\Debug\net8.0\DesafioTabuada.pdb
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.AssemblyInfo.cs
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.dll
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\refint\DesafioTabuada.dll
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.pdb
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\DesafioTabuada.genruntimeconfig.cache
+C:\Users\ginac\source\repos\DesafioTabuada\DesafioTabuada\obj\Debug\net8.0\ref\DesafioTabuada.dll
