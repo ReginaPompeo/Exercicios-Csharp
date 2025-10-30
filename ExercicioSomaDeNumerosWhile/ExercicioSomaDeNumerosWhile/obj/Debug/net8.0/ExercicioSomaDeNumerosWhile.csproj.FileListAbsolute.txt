@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\bin\Debug\net8.0\ExercicioSomaDeNumerosWhile.exe
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\bin\Debug\net8.0\ExercicioSomaDeNumerosWhile.deps.json
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\bin\Debug\net8.0\ExercicioSomaDeNumerosWhile.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\bin\Debug\net8.0\ExercicioSomaDeNumerosWhile.dll
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\bin\Debug\net8.0\ExercicioSomaDeNumerosWhile.pdb
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.dll
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\refint\ExercicioSomaDeNumerosWhile.dll
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.pdb
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ExercicioSomaDeNumerosWhile.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosWhile\ExercicioSomaDeNumerosWhile\obj\Debug\net8.0\ref\ExercicioSomaDeNumerosWhile.dll
