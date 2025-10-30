@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContagemRegressivaFor/1.0.0": {
+        "runtime": {
+          "ContagemRegressivaFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContagemRegressivaFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

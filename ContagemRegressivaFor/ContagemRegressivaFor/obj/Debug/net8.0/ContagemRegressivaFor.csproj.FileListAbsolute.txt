@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\bin\Debug\net8.0\ContagemRegressivaFor.exe
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\bin\Debug\net8.0\ContagemRegressivaFor.deps.json
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\bin\Debug\net8.0\ContagemRegressivaFor.runtimeconfig.json
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\bin\Debug\net8.0\ContagemRegressivaFor.dll
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\bin\Debug\net8.0\ContagemRegressivaFor.pdb
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.dll
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\refint\ContagemRegressivaFor.dll
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.pdb
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ContagemRegressivaFor.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ContagemRegressivaFor\ContagemRegressivaFor\obj\Debug\net8.0\ref\ContagemRegressivaFor.dll
