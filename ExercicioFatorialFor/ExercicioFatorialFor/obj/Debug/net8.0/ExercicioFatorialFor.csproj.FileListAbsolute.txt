@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\bin\Debug\net8.0\ExercicioFatorialFor.exe
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\bin\Debug\net8.0\ExercicioFatorialFor.deps.json
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\bin\Debug\net8.0\ExercicioFatorialFor.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\bin\Debug\net8.0\ExercicioFatorialFor.dll
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\bin\Debug\net8.0\ExercicioFatorialFor.pdb
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.dll
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\refint\ExercicioFatorialFor.dll
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.pdb
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ExercicioFatorialFor.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioFatorialFor\ExercicioFatorialFor\obj\Debug\net8.0\ref\ExercicioFatorialFor.dll
