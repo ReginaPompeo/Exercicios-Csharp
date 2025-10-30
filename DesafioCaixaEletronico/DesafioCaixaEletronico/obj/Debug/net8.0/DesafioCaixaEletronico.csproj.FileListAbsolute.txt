@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\bin\Debug\net8.0\DesafioCaixaEletronico.exe
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\bin\Debug\net8.0\DesafioCaixaEletronico.deps.json
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\bin\Debug\net8.0\DesafioCaixaEletronico.runtimeconfig.json
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\bin\Debug\net8.0\DesafioCaixaEletronico.dll
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\bin\Debug\net8.0\DesafioCaixaEletronico.pdb
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.AssemblyInfo.cs
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.dll
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\refint\DesafioCaixaEletronico.dll
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.pdb
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\DesafioCaixaEletronico.genruntimeconfig.cache
+C:\Users\ginac\source\repos\DesafioCaixaEletronico\DesafioCaixaEletronico\obj\Debug\net8.0\ref\DesafioCaixaEletronico.dll
