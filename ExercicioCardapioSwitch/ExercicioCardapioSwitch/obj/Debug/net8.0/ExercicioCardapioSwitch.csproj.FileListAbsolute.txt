@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\bin\Debug\net8.0\ExercicioCardapioSwitch.exe
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\bin\Debug\net8.0\ExercicioCardapioSwitch.deps.json
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\bin\Debug\net8.0\ExercicioCardapioSwitch.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\bin\Debug\net8.0\ExercicioCardapioSwitch.dll
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\bin\Debug\net8.0\ExercicioCardapioSwitch.pdb
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.dll
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\refint\ExercicioCardapioSwitch.dll
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.pdb
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ExercicioCardapioSwitch.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioCardapioSwitch\ExercicioCardapioSwitch\obj\Debug\net8.0\ref\ExercicioCardapioSwitch.dll
