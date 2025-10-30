@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\bin\Debug\net8.0\ExercicioWhile1A10.exe
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\bin\Debug\net8.0\ExercicioWhile1A10.deps.json
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\bin\Debug\net8.0\ExercicioWhile1A10.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\bin\Debug\net8.0\ExercicioWhile1A10.dll
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\bin\Debug\net8.0\ExercicioWhile1A10.pdb
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.dll
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\refint\ExercicioWhile1A10.dll
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.pdb
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ExercicioWhile1A10.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioWhile1A10\ExercicioWhile1A10\obj\Debug\net8.0\ref\ExercicioWhile1A10.dll
