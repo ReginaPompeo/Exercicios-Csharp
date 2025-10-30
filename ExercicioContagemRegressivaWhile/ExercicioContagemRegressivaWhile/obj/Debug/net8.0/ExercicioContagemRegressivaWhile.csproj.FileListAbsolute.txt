@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\bin\Debug\net8.0\ExercicioContagemRegressivaWhile.exe
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\bin\Debug\net8.0\ExercicioContagemRegressivaWhile.deps.json
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\bin\Debug\net8.0\ExercicioContagemRegressivaWhile.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\bin\Debug\net8.0\ExercicioContagemRegressivaWhile.dll
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\bin\Debug\net8.0\ExercicioContagemRegressivaWhile.pdb
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.dll
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\refint\ExercicioContagemRegressivaWhile.dll
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.pdb
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ExercicioContagemRegressivaWhile.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioContagemRegressivaWhile\ExercicioContagemRegressivaWhile\obj\Debug\net8.0\ref\ExercicioContagemRegressivaWhile.dll
