@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\bin\Debug\net8.0\ExercicioSomaDeNumerosFor.exe
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\bin\Debug\net8.0\ExercicioSomaDeNumerosFor.deps.json
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\bin\Debug\net8.0\ExercicioSomaDeNumerosFor.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\bin\Debug\net8.0\ExercicioSomaDeNumerosFor.dll
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\bin\Debug\net8.0\ExercicioSomaDeNumerosFor.pdb
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.dll
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\refint\ExercicioSomaDeNumerosFor.dll
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.pdb
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ExercicioSomaDeNumerosFor.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioSomaDeNumerosFor\ExercicioSomaDeNumerosFor\obj\Debug\net8.0\ref\ExercicioSomaDeNumerosFor.dll
