@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\bin\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.exe
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\bin\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.deps.json
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\bin\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\bin\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.dll
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\bin\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.pdb
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.dll
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\refint\ExercicioOperacaoMatematicaSwitch.dll
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.pdb
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ExercicioOperacaoMatematicaSwitch.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioOperacaoMatematicaSwitch\ExercicioOperacaoMatematicaSwitch\obj\Debug\net8.0\ref\ExercicioOperacaoMatematicaSwitch.dll
