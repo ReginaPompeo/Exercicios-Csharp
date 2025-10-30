@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\bin\Debug\net8.0\ExercicioDiaDaSemana.exe
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\bin\Debug\net8.0\ExercicioDiaDaSemana.deps.json
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\bin\Debug\net8.0\ExercicioDiaDaSemana.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\bin\Debug\net8.0\ExercicioDiaDaSemana.dll
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\bin\Debug\net8.0\ExercicioDiaDaSemana.pdb
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.dll
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\refint\ExercicioDiaDaSemana.dll
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.pdb
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ExercicioDiaDaSemana.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioDiaDaSemana\ExercicioDiaDaSemana\obj\Debug\net8.0\ref\ExercicioDiaDaSemana.dll
