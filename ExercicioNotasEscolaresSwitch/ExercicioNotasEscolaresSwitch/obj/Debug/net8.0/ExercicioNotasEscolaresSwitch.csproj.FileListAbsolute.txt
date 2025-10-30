@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\bin\Debug\net8.0\ExercicioNotasEscolaresSwitch.exe
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\bin\Debug\net8.0\ExercicioNotasEscolaresSwitch.deps.json
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\bin\Debug\net8.0\ExercicioNotasEscolaresSwitch.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\bin\Debug\net8.0\ExercicioNotasEscolaresSwitch.dll
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\bin\Debug\net8.0\ExercicioNotasEscolaresSwitch.pdb
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.dll
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\refint\ExercicioNotasEscolaresSwitch.dll
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.pdb
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ExercicioNotasEscolaresSwitch.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioNotasEscolaresSwitch\ExercicioNotasEscolaresSwitch\obj\Debug\net8.0\ref\ExercicioNotasEscolaresSwitch.dll
