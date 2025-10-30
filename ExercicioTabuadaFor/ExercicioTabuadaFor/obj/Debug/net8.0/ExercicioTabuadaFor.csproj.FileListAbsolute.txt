@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\bin\Debug\net8.0\ExercicioTabuadaFor.exe
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\bin\Debug\net8.0\ExercicioTabuadaFor.deps.json
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\bin\Debug\net8.0\ExercicioTabuadaFor.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\bin\Debug\net8.0\ExercicioTabuadaFor.dll
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\bin\Debug\net8.0\ExercicioTabuadaFor.pdb
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.dll
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\refint\ExercicioTabuadaFor.dll
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.pdb
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ExercicioTabuadaFor.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioTabuadaFor\ExercicioTabuadaFor\obj\Debug\net8.0\ref\ExercicioTabuadaFor.dll
