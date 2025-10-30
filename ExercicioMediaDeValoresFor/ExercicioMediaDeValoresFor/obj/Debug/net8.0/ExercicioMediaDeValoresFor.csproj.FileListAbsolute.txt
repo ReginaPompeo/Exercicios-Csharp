@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\bin\Debug\net8.0\ExercicioMediaDeValoresFor.exe
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\bin\Debug\net8.0\ExercicioMediaDeValoresFor.deps.json
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\bin\Debug\net8.0\ExercicioMediaDeValoresFor.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\bin\Debug\net8.0\ExercicioMediaDeValoresFor.dll
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\bin\Debug\net8.0\ExercicioMediaDeValoresFor.pdb
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.dll
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\refint\ExercicioMediaDeValoresFor.dll
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.pdb
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ExercicioMediaDeValoresFor.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioMediaDeValoresFor\ExercicioMediaDeValoresFor\obj\Debug\net8.0\ref\ExercicioMediaDeValoresFor.dll
