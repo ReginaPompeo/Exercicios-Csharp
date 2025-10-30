@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\bin\Debug\net8.0\DesafioConversorDeMoedasSwitch.exe
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\bin\Debug\net8.0\DesafioConversorDeMoedasSwitch.deps.json
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\bin\Debug\net8.0\DesafioConversorDeMoedasSwitch.runtimeconfig.json
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\bin\Debug\net8.0\DesafioConversorDeMoedasSwitch.dll
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\bin\Debug\net8.0\DesafioConversorDeMoedasSwitch.pdb
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.AssemblyInfo.cs
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.dll
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\refint\DesafioConversorDeMoedasSwitch.dll
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.pdb
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\DesafioConversorDeMoedasSwitch.genruntimeconfig.cache
+C:\Users\ginac\source\repos\DesafioConversorDeMoedasSwitch\DesafioConversorDeMoedasSwitch\obj\Debug\net8.0\ref\DesafioConversorDeMoedasSwitch.dll
