@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\bin\Debug\net8.0\ExercicioSenhaWhile.exe
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\bin\Debug\net8.0\ExercicioSenhaWhile.deps.json
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\bin\Debug\net8.0\ExercicioSenhaWhile.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\bin\Debug\net8.0\ExercicioSenhaWhile.dll
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\bin\Debug\net8.0\ExercicioSenhaWhile.pdb
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.dll
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\refint\ExercicioSenhaWhile.dll
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.pdb
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ExercicioSenhaWhile.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioSenhaWhile\ExercicioSenhaWhile\obj\Debug\net8.0\ref\ExercicioSenhaWhile.dll
