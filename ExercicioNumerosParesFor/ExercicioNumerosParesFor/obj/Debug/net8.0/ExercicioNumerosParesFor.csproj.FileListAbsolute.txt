@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\bin\Debug\net8.0\ExercicioNumerosParesFor.exe
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\bin\Debug\net8.0\ExercicioNumerosParesFor.deps.json
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\bin\Debug\net8.0\ExercicioNumerosParesFor.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\bin\Debug\net8.0\ExercicioNumerosParesFor.dll
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\bin\Debug\net8.0\ExercicioNumerosParesFor.pdb
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.dll
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\refint\ExercicioNumerosParesFor.dll
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.pdb
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ExercicioNumerosParesFor.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioNumerosParesFor\ExercicioNumerosParesFor\obj\Debug\net8.0\ref\ExercicioNumerosParesFor.dll
