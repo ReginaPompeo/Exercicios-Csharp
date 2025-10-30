@@ -1,0 +1,14 @@
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\bin\Debug\net8.0\ExercicioMesDoAno.exe
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\bin\Debug\net8.0\ExercicioMesDoAno.deps.json
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\bin\Debug\net8.0\ExercicioMesDoAno.runtimeconfig.json
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\bin\Debug\net8.0\ExercicioMesDoAno.dll
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\bin\Debug\net8.0\ExercicioMesDoAno.pdb
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.AssemblyInfoInputs.cache
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.AssemblyInfo.cs
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.csproj.CoreCompileInputs.cache
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.dll
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\refint\ExercicioMesDoAno.dll
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.pdb
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ExercicioMesDoAno.genruntimeconfig.cache
+C:\Users\ginac\source\repos\ExercicioMesDoAno\ExercicioMesDoAno\obj\Debug\net8.0\ref\ExercicioMesDoAno.dll
